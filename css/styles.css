@@ -79,7 +79,7 @@
     text-align: center;    
     padding-top: 17.5em;
     padding-bottom: 2.5em;
-    background-image: url('./img/libros.jpg');
+    background-image: url('img/libros.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -324,19 +324,19 @@
 }
 
 .tarjetas--uno {
-    background-image: url('./img/importados-libro-uno.webp');
+    background-image: url('img/importados-libro-uno.webp');
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .tarjetas--dos {
-    background-image: url('./img/importados-libro-dos.webp');
+    background-image: url('img/importados-libro-dos.webp');
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .tarjetas--tres {
-    background-image: url('./img/importados-libro-tres.webp');
+    background-image: url('img/importados-libro-tres.webp');
     background-repeat: no-repeat;
     background-size: cover;
 }
