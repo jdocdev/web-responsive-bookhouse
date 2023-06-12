@@ -151,6 +151,25 @@
     margin-bottom: 2em;
 }
 
+@media screen and (min-width: 1024px) {
+    .destacados ul{   
+        display: flex;
+        justify-content: center;
+    }
+
+    .destacados ul li{   
+        margin: 1.5em;
+    }
+
+    .destacados__panel-imagen {
+        width: 35vw;
+    }
+
+    .destacados__panel-texto {
+        width: 35vw;
+    }
+}
+
 
 .calificados {
     display: flex;
